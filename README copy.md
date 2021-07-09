@@ -1,4 +1,4 @@
-# docker-baserow
+# hub.docker.com/ryanwclark/baserow
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/ryanwclark/baserow.svg)](https://hub.docker.com/ryanwclark/baserow)
 [![Docker Stars](https://img.shields.io/docker/stars/ryanwclark/baserow.svg)](https://hub.docker.com/ryanwclark/baserow)
