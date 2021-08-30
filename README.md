@@ -2,7 +2,7 @@
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/ryanwclark/baserow.svg)](https://hub.docker.com/ryanwclark/baserow)
 [![Docker Stars](https://img.shields.io/docker/stars/ryanwclark/baserow.svg)](https://hub.docker.com/ryanwclark/baserow)
-[![Docker Layers](https://images.microbadger.com/badges/imageryanwclark/baserow.svg)](https://microbadger.com/imagesryanwclark/baserow)
+[![Docker Layers](https://images.microbadger.com/badges/image/ryanwclark/baserow.svg)](https://microbadger.com/imagesryanwclark/baserow)
 
 ## Introduction
 
@@ -21,19 +21,20 @@ This will build a container for [Baserow](https://baserow.io/) - An open source 
 ## Table of Contents
 
 
-- [Introduction](#introduction)
-- [Authors](#authors)
-- [Table of Contents](#table-of-contents)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-  - [Quick Start](#quick-start)
-- [Configuration](#configuration)
-  - [Data-Volumes](#data-volumes)
-  - [Environment Variables](#environment-variables)
-  - [Networking](#networking)
-- [Maintenance](#maintenance)
-  - [Shell Access](#shell-access)
-- [References](#references)
+- [docker-baserow](#docker-baserow)
+  - [Introduction](#introduction)
+  - [Authors](#authors)
+  - [Table of Contents](#table-of-contents)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+    - [Quick Start](#quick-start)
+  - [Configuration](#configuration)
+    - [Data-Volumes](#data-volumes)
+    - [Environment Variables](#environment-variables)
+    - [Networking](#networking)
+  - [Maintenance](#maintenance)
+    - [Shell Access](#shell-access)
+  - [References](#references)
 
 ## Prerequisites
 
