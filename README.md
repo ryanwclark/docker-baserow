@@ -2,7 +2,6 @@
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/ryanwclark/baserow.svg)](https://hub.docker.com/ryanwclark/baserow)
 [![Docker Stars](https://img.shields.io/docker/stars/ryanwclark/baserow.svg)](https://hub.docker.com/ryanwclark/baserow)
-[![Docker Layers](https://images.microbadger.com/badges/image/ryanwclark/baserow.svg)](https://microbadger.com/images/ryanwclark/baserow)
 
 ## Introduction
 
@@ -19,7 +18,6 @@ This will build a container for [Baserow](https://baserow.io/) - An open source 
 - [Ryan Clark](https://github.com/ryanwclark)
 
 ## Table of Contents
-
 
 - [docker-baserow](#docker-baserow)
   - [Introduction](#introduction)
