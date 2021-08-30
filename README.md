@@ -2,7 +2,7 @@
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/ryanwclark/baserow.svg)](https://hub.docker.com/ryanwclark/baserow)
 [![Docker Stars](https://img.shields.io/docker/stars/ryanwclark/baserow.svg)](https://hub.docker.com/ryanwclark/baserow)
-[![Docker Layers](https://images.microbadger.com/badges/image/ryanwclark/baserow.svg)](https://microbadger.com/imagesryanwclark/baserow)
+[![Docker Layers](https://images.microbadger.com/badges/image/ryanwclark/baserow.svg)](https://microbadger.com/images/ryanwclark/baserow)
 
 ## Introduction
 
