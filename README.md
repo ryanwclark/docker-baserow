@@ -13,10 +13,6 @@ This will build a container for [Baserow](https://baserow.io/) - An open source 
 
 [Changelog](CHANGELOG.md)
 
-## Authors
-
-- [Ryan Clark](https://github.com/ryanwclark)
-
 ## Table of Contents
 
 - [docker-baserow](#docker-baserow)
